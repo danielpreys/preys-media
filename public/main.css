@@ -1,0 +1,18 @@
+body {
+	background-image: url("https://s3.amazonaws.com/stockfreedom/wp-content/uploads/2018/02/23164926/ti01105006sm.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+}
+
+h1 {
+	margin: 0;
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    margin-right: -50%;
+    transform: translate(-50%, -75%);
+    font-size: 70px;
+    text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+    color: white;
+
+}
